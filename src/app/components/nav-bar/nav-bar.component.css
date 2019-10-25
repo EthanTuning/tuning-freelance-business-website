@@ -19,3 +19,9 @@ img {
 #services-link {
     padding-right: 2rem;
 }
+
+@media screen and (max-width: 600px) {
+    #name-tag {
+        display: none;
+    }
+}
