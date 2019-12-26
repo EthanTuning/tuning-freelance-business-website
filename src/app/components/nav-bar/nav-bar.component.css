@@ -21,7 +21,14 @@ img {
 }
 
 @media screen and (max-width: 600px) {
+
     #name-tag {
         display: none;
     }
+
+    #about-link,
+    #services-link {
+        padding-right: .75rem;
+    }
+    
 }
